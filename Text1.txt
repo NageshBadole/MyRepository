@@ -6,5 +6,6 @@ Class Cls{
 
 		System.out.println("Hello World");
 		System.out.println("Another Line Added");
+		System.out.println("Another Line Added");
 	}
 }
