@@ -1,1 +1,2 @@
 bug fix
+second bug fixed in master by others along with some changes
