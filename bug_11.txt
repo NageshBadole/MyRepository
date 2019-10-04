@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-bug fix
-second bug fixed in master by others along with some changes
-=======
+
 bug fix. and updated
 second bug fixed
->>>>>>> bug2
->>>>>>>>
 
->>>>>>>>>
+
+
 change for Rebase test
->>>>>>>>>>
+
+
+
+REBASE TESTING
+
